@@ -16,3 +16,57 @@ h1 {
 .hero {
 	text-align: center;
 }
+
+.elev {
+	text-align: center;
+	padding-top: 2em;
+	font-size: 2em;
+}
+
+#arunanthi {
+	animation-delay: .1s;
+}
+
+#johannes {
+	animation-delay: .15s;
+}
+
+#georgi {
+	animation-delay: .1s;
+}
+
+#tobias {
+	animation-delay: .15s;
+}
+
+#jonaso {
+	animation-delay: .1s;
+}
+
+#jonasa {
+	animation-delay: .15s;
+}
+
+#tobias {
+	animation-delay: .1s;
+}
+
+#sample {
+	animation-delay: .15s;
+}
+
+#tobias {
+	animation-delay: .1s;
+}
+
+#sample {
+	animation-delay: .15s;
+}
+
+#tobias {
+	animation-delay: .1s;
+}
+
+#sample {
+	animation-delay: .15s;
+}
