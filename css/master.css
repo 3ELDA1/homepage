@@ -17,6 +17,16 @@ h1 {
 	text-align: center;
 }
 
+.elever a {
+	text-decoration: none;
+	transition: all .2s ease;
+}
+
+.elever a:hover {
+	color: tomato;
+	font-size: 1.5em;
+}
+
 .elev {
 	text-align: center;
 	padding-top: 2em;
@@ -47,26 +57,26 @@ h1 {
 	animation-delay: .35s;
 }
 
-#tobias {
+#sander {
 	animation-delay: .4s;
 }
 
-#sample {
+#eivind {
 	animation-delay: .45s;
 }
 
-#tobias {
+#nicolas {
 	animation-delay: .5s;
 }
 
-#sample {
+#sabah {
 	animation-delay: .55s;
 }
 
-#tobias {
+#martin {
 	animation-delay: .6s;
 }
 
-#sample {
+#erlend {
 	animation-delay: .65s;
 }
